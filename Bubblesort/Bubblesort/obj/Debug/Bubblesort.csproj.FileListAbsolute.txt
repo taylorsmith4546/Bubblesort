@@ -1,0 +1,6 @@
+C:\Dev\Code Challenges\C#\BubbleSort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Dev\Code Challenges\C#\BubbleSort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Dev\Code Challenges\C#\BubbleSort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Dev\Code Challenges\C#\BubbleSort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csprojResolveAssemblyReference.cache
+C:\Dev\Code Challenges\C#\BubbleSort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Dev\Code Challenges\C#\BubbleSort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
